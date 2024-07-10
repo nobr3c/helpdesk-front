@@ -26,3 +26,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # helpdesk-front
+
+# Install [Toastr](https://www.npmjs.com/package/ngx-toastr)
+
+To install Toastr, use version 14.3.0 
+The installation command is npm install ngx-toastr@14.3.0
+
