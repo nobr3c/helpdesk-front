@@ -39,3 +39,6 @@ Front-End used Angular Material components
 [Angular Material Page](https://material.angular.io/)
 
 [Github](https://github.com/angular/components)
+
+### Serviço de Autenticação do Angular CLI
+Comando `ng g s services/auth`
